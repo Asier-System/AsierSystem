@@ -1,2 +1,2 @@
 # AsierSystem
-Where the Asier System resources, website and realeases are hosted
+Where the Asier System resources, and realeases are hosted
